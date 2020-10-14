@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0%;
+}
+
+.App{
+    font-size: 17.5px;
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
