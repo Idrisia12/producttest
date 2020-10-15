@@ -24,9 +24,15 @@ export const GlobalStyle = createGlobalStyle`
  }
 `
 export const Wrapper = styled.div`
+<<<<<<< HEAD
 font-size: 17.5px;
 background-position: bottom right;
 background-repeat: no-repeat;
+=======
+   font-size: 17.5px;
+   background-position: bottom right;
+   background-repeat: no-repeat;
+>>>>>>> ae0bd1bee9f3afafc97af249c02e459e84d550e4
 `
 
 export const Title = styled.h1`

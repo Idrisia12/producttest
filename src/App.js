@@ -35,7 +35,11 @@ const TopContainer = styled.div`
 
 function App() {
   return (
+<<<<<<< HEAD
     <Wrapper>
+=======
+       <Wrapper>
+>>>>>>> ae0bd1bee9f3afafc97af249c02e459e84d550e4
         <GlobalStyle />
     <Section>
 
@@ -74,7 +78,11 @@ function App() {
           </Container>
 
     </Section>
+<<<<<<< HEAD
     </Wrapper>
+=======
+     </Wrapper>
+>>>>>>> ae0bd1bee9f3afafc97af249c02e459e84d550e4
   );
 }
 
