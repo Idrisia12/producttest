@@ -24,11 +24,6 @@ const BottomContainer = styled.div`
   }
 `;
 
-const StyledTitle = styled.text`
-  color: hsl(300, 43%, 22%);
-  text-align: center;
-`;
-
 const TopContainer = styled.div`
   @media (min-width: 960px) {
     display: grid;
