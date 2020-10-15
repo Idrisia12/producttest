@@ -23,6 +23,12 @@ export const GlobalStyle = createGlobalStyle`
    }
  }
 `
+export const Wrapper = styled.div`
+   font-size: 17.5px;
+   background-position: bottom right;
+   background-repeat: no-repeat;
+`
+
 export const Title = styled.h1`
 font-family: 'Spartan', sans-serif;
 font-weight: 600;
