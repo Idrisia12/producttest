@@ -4,8 +4,6 @@ import styled  from 'styled-components';
 import anne from "../src/images/anne.jpg";
 import cotton from "../src/images/colton.jpg";
 import irene from "../src/images/irene.jpg";
-import top from "../src/images/bg-pattern-top-desktop1.svg";
-import bottom from "../src/images/bg-pattern-bottom-desktop1.svg";
 import Testimonial from './Cards';
 import RatingBlock from './Rating';
 
