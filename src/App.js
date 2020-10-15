@@ -9,7 +9,7 @@ import bottom from "../src/images/bg-pattern-bottom-desktop1.svg";
 import Testimonial from './Cards';
 import RatingBlock from './Rating';
 
-import {GlobalStyle, Section, Title, Text, Ratings, Content} from './Style.js'
+import {GlobalStyle, Wrapper, Section, Title, Text, Ratings, Content} from './Style.js'
 
 const Container = styled.div`
   margin: 0 auto;
@@ -42,8 +42,7 @@ const TopContainer = styled.div`
 
 function App() {
   return (
-    <body>
-    <div className="App">
+       <Wrapper>
         <GlobalStyle />
     <Section>
 
@@ -82,8 +81,7 @@ function App() {
           </Container>
 
     </Section>
-    </div>
-    </body>
+     </Wrapper>
   );
 }
 
